@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctors  appointment",
+      "day": "May 5th at 2pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Salon  appointment",
+      "day": "May 25th at 4pm",
+      "reminder": true
+    },
+    {
+      "id": 4,
+      "text": "Grocery shopping",
+      "day": "May 2th at 4pm",
+      "reminder": false
+    }
+  ]
+}
