@@ -1,3 +1,4 @@
+![tasktrackerng8](https://user-images.githubusercontent.com/16877356/128073773-6d4f009e-777e-492c-af8e-349455fc3366.png)
 # AngularTaskTrackerApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.1.
